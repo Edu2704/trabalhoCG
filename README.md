@@ -2,7 +2,7 @@
 
 Jogo 2D de rolagem lateral: um drone coleta pacotes de dados e desvia de obstáculos cibernéticos.
 
-**Equipe:** Nome 1, Nome 2, Nome 3   <!-- TODO: preencher (e em game.py, constante TEAM) -->
+**Equipe:** Eduardo, Mayk, Thomas  
 
 ## Instalação e execução
 ```

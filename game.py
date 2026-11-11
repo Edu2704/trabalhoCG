@@ -15,7 +15,7 @@ ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
 WIDTH, HEIGHT = 800, 600
 MAX_LIVES = 3
 WIN_SCORE = 1000                     # R13: pontuação-alvo
-TEAM = "Equipe: Nome 1, Nome 2, Nome 3"   # TODO: coloque os nomes da equipe (R08)
+TEAM = "Equipe: Eduardo, Mayk, Thomas" 
 
 # Desafio adicional: EFEITO PARALLAX -> (textura, tamanho do tile em px, velocidade em px/s)
 # camadas mais distantes rolam mais devagar que as mais próximas.
